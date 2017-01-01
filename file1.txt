@@ -1,3 +1,5 @@
 this is my home  --DW
 this is you home --ME
+<<<<<<< HEAD
 this is sad --SHE
+that is funny --LBJ
